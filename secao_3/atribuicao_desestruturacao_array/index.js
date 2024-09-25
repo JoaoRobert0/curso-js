@@ -1,5 +1,5 @@
 /* 
-DESTRUTURAÇÃO VIA ARRAY
+DESESTRUTURAÇÃO VIA ARRAY
 */
 
 // A atribuição por desestruturação em JavaScript é uma maneira concisa de extrair valores de arrays

@@ -1,5 +1,5 @@
 /* 
-DESTRUTURAÇÃO VIA OBJETOS
+DESESTRUTURAÇÃO VIA OBJETOS
 */
 
 const pessoa = {
